@@ -2,7 +2,7 @@
 
 Project: Create a website with a main index page listing recipes and links to each recipe page.
 
-Skills: HTML, Git
+Skills: HTML, Git, GitHub
 
 Attribution for images used:
 1) Chicken Wings <br>
