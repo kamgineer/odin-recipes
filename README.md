@@ -4,7 +4,7 @@ Project: Create a website with a main index page listing recipes and links to ea
 
 Skills: HTML, Git
 
-Images used:
+Attribution for images used:
 1) Chicken Wings <br>
 “<a href="https://www.flickr.com/photos/elsiehui/10639167376" title="Kilt and Caber - Salt and Peppered Wings">Kilt and Caber - Salt and Peppered Wings</a>” by <a href="https://www.flickr.com/photos/elsiehui/">Elsie Hui</a>, <a href="https://creativecommons.org/licenses/by/2.0/deed.en" rel="license noopener noreferrer">CC BY 2.0</a>
 
